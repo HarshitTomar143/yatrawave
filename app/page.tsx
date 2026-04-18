@@ -25,7 +25,7 @@ export default function Home() {
 
         <div className="flex w-full flex-col gap-3 text-sm sm:w-auto sm:flex-row sm:items-center sm:gap-4">
           <a
-            href="#"
+            href="https://www.instagram.com/yatrawave.in?igsh=c3pwaDV1d3EyeG56"
             className="inline-flex w-full items-center justify-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-2 text-sm text-white transition hover:bg-white/15 sm:w-auto sm:px-4 sm:py-2"
           >
             <img src="/instagram.svg" alt="Instagram" className="h-4 w-4" />
